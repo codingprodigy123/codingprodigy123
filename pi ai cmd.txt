@@ -1,0 +1,2 @@
+python "e:\pi ai\ai.py"
+python "g:\pi ai\ai.py"
