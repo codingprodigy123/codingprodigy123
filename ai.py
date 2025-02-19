@@ -1,7 +1,7 @@
 import tkinter as tk
-#from langchain_ollama import OllamaLLM
+from langchain_ollama import OllamaLLM
 
-#model = OllamaLLM(model='mistral')
+model = OllamaLLM(model='mistral')
 window = tk.Tk()
 window.geometry('500x500')
 window.title('pi ai') 
