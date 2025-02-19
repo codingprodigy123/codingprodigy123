@@ -23,6 +23,6 @@ output_field.pack(pady=20)
 window.mainloop()
 while True:
     pass
-#   x = input('me:')
-#   y = model.invoke(x)
-#   print(f'ai:{y}')
+    x = input('me:')
+    y = model.invoke(x)
+    print(f'ai:{y}')
